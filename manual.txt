@@ -1,0 +1,4 @@
+source /home/shunn2/awsenv/bin/activate
+
+interpreter change!
+--> ctrl + shift + p --> select interpreter --> awsenv
